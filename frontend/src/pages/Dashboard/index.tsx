@@ -1,4 +1,3 @@
-import ImgDsDark from 'assets/img/ds-dark.svg';
 import BarChart from "components/BarChart";
 import DonutChart from "components/DonutChart";
 import DataTable from "components/DataTable";
