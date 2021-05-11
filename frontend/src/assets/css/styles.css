@@ -6,6 +6,9 @@
 html, body {
     height: 100%;
     font-family: "Ubuntu", sans-serif;
+    background-image: url(../img/predio.jpg);
+    background-position: center center;
+    background-size: cover;
 }
 
 #root {
@@ -24,9 +27,21 @@ html, body {
 }
 
 .bg-primary {
+    margin-left: 20px;
     background-color: var(--color-primary) !important;
 }
 
 .text-primary {
+    margin-left: 20px;
     color: var(--color-primary) !important;
+}
+
+.container2 {
+    background-color: rgb(255, 250, 250);
+    width: 100%;
+}
+
+.table-responsive {
+    margin-left: 2px;
+    margin-bottom: 20px;
 }
